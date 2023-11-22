@@ -14,5 +14,22 @@ Link: https://public.tableau.com/app/profile/sneha.deolikar/viz/HRAnalystFinal/D
 <h1>Screenshot</h1>
 <img src="Dashboard.png">
 
+<h1>Observation</h1>
+<ol><li> Level of Employee Satisfaction and Engagement and Improvement for research and Development</li>
+<li> Less hourly rate high attrition rate</li>
+<li> lowest monthly income in R and D or any job dissatisfaction</li>
+<li> Rapid Growth  and Rapid Evolving Technology in software</li>
+<li> Balance Life is not Compromise but strategic investment</li>
+<li> Lowest in Research Scientist and highest in Human Resource
+It might be other factor such as job role, Monthly income, Overall Market Condition</li></ol>
+
+<h1>Conclusion</h1>
+<pre></pre>To manage attrition , Extended work Hours over period can contribute to burnout and reduced job satisfaction
+Attrition rate high then increase hourly rate 
+To improve Involve salary analysis for competitiveness and retention programs</pre>
+
+
+
+
 
 

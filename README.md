@@ -10,6 +10,7 @@
 </ul>
 
 <h4>To understand Employee retention, I have created Tableau dashborad</h4>
+Link: https://public.tableau.com/app/profile/sneha.deolikar/viz/HRAnalystFinal/DashboardFinal?publish=yes
 <h1>Screenshot</h1>
 <img src="Dashboard.png">
 

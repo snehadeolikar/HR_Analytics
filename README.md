@@ -28,6 +28,16 @@ It might be other factor such as job role, Monthly income, Overall Market Condit
 Attrition rate high then increase hourly rate 
 To improve Involve salary analysis for competitiveness and retention programs</pre>
 
+<h1>What I Learnt</h1>
+<ul>
+  <li>Create Interactive dashborad</li>
+  <li>Understood Combine two Table with Join</li>
+  <li>Used Calculated field for formulas with various condition</li>
+  <li>Used the Filters</li>
+  <li>creating set</li>
+  <li>Used Varies Charts pie chart,bubble chart,heat map</li>
+  <li>Using dual axis create clustered chart</li>
+</ul>
 
 
 

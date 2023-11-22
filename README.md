@@ -24,9 +24,9 @@ Link: https://public.tableau.com/app/profile/sneha.deolikar/viz/HRAnalystFinal/D
 It might be other factor such as job role, Monthly income, Overall Market Condition</li></ol>
 
 <h1>Conclusion</h1>
-<pre>To manage attrition , Extended work Hours over period can contribute to burnout and reduced job satisfaction
+To manage attrition , Extended work Hours over period can contribute to burnout and reduced job satisfaction
 Attrition rate high then increase hourly rate 
-To improve Involve salary analysis for competitiveness and retention programs</pre>
+To improve Involve salary analysis for competitiveness and retention programs
 
 <h1>What I Learnt</h1>
 <ul>
